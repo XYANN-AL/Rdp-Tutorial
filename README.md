@@ -1,2 +1,2 @@
-# Rdp-Tutorial
-Coding Pemula/basic
+# awsrdp
+Configures your AWS for RDP
